@@ -1,7 +1,7 @@
 
 # Tiny Tapeout project information
 project:
-  title:        "vga_logo_upb"      # Project title
+  title:        "tt_um_calincalin644_vga_logo_upb"      # Project title
   author:       "Calin Bira"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  ""      # One line description of what your project does
