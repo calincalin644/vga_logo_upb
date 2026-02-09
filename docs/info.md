@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Makes a pattern resembling UPB logo
 
 ## How to test
 
-Explain how to use your project
+Just run in on a ASIC
 
 ## External hardware
 
